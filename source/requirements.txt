@@ -1,0 +1,14 @@
+emot
+gensim
+matplotlib
+nltk
+numpy
+pandas
+scikit-learn
+sklearn
+snscrape
+wordcloud
+seaborn
+pyLDAvis
+
+
